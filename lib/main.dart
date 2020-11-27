@@ -8,6 +8,7 @@ import 'package:flutter/material.dart';
 import 'idoso_widget.dart';
 import 'model/usuario.dart';
 import 'model/anotacao.dart';
+import 'model/avaliacao.dart';
 
 void main() async {
   //Registrar o Firebase
